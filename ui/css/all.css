@@ -1,6 +1,6 @@
 /* Landing page*/
 body{
-    background-image: url(image.jpg)  ;
+    background-image: url(../assets/images/image.jpg)  ;
     background-size: 100%;
 }
 
@@ -34,7 +34,7 @@ body{
        float:right;
    }
    .footer{
-       background-image: url(footer.jpg);
+       background-image: url(../assets/images/footer.jpg);
        height: 30px;
        width: 100%;
        background-size: 100%;
@@ -43,7 +43,7 @@ body{
    .fb{
        height: 22px;
        width: 22px;
-       background-image: url(fb.png);
+       background-image: url(../assets/images/fb.png);
        background-size: 100%;
        margin-left: 540px;
        margin-top: -20px;
@@ -52,7 +52,7 @@ body{
    .ig{
     height: 22px;
     width: 22px;
-    background-image: url(ig.jpg);
+    background-image: url(../assets/images/ig.jpg);
     background-size: 100%;
     float: left;
     margin-left: 600px;
